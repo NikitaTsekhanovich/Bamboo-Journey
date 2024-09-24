@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 3566efa2aa207124faa69b2ec4fb76ac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-leaf-flower-_1
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1816
+        width: 676
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60dc00705c214a4bb5e8578064c50c0
+      internalID: -71701348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-leaf-flower-_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1519
+        width: 758
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f7eddc850764a4dba8c7228b1e956e
+      internalID: -617861304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-leaf-flower-_11
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 780
+        width: 850
+        height: 774
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275711feb88f10040bc5dfc84dc2ec00
+      internalID: -126198259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-leaf-flower-_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1063
+        width: 975
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522d6a7cc59ab2d4f8b5eed717177f3d
+      internalID: 1825083503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-leaf-flower-_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 148
+        width: 903
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f663da0a338045a4a89f117b00b40f55
+      internalID: -118967918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-leaf-flower-_38
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 267
+        width: 1169
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66fd522625e1704981133ad74bce59f
+      internalID: -64453137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-leaf-flower-_0: -1756655273
+      kisspng-leaf-flower-_1: -71701348
+      kisspng-leaf-flower-_10: 49584929
+      kisspng-leaf-flower-_11: -126198259
+      kisspng-leaf-flower-_12: 1848738835
+      kisspng-leaf-flower-_13: 703111327
+      kisspng-leaf-flower-_14: -2046022917
+      kisspng-leaf-flower-_15: 573817516
+      kisspng-leaf-flower-_16: -1811173566
+      kisspng-leaf-flower-_17: 1881255671
+      kisspng-leaf-flower-_18: 682395926
+      kisspng-leaf-flower-_19: 802951420
+      kisspng-leaf-flower-_2: -617861304
+      kisspng-leaf-flower-_20: 1825083503
+      kisspng-leaf-flower-_21: 423894169
+      kisspng-leaf-flower-_22: -218199817
+      kisspng-leaf-flower-_23: 1115681893
+      kisspng-leaf-flower-_24: 1136147659
+      kisspng-leaf-flower-_25: -1519242486
+      kisspng-leaf-flower-_26: -866257831
+      kisspng-leaf-flower-_27: -1402146344
+      kisspng-leaf-flower-_28: -54094268
+      kisspng-leaf-flower-_29: -118967918
+      kisspng-leaf-flower-_3: -1686275066
+      kisspng-leaf-flower-_30: -753669557
+      kisspng-leaf-flower-_31: 194010437
+      kisspng-leaf-flower-_32: -880744749
+      kisspng-leaf-flower-_33: 1289697338
+      kisspng-leaf-flower-_34: 134531228
+      kisspng-leaf-flower-_35: 814918610
+      kisspng-leaf-flower-_36: 477539483
+      kisspng-leaf-flower-_37: 306748735
+      kisspng-leaf-flower-_38: -64453137
+      kisspng-leaf-flower-_39: -1166750162
+      kisspng-leaf-flower-_4: -427889356
+      kisspng-leaf-flower-_40: 784571295
+      kisspng-leaf-flower-_41: -1038155653
+      kisspng-leaf-flower-_42: -2130514096
+      kisspng-leaf-flower-_43: 1349791161
+      kisspng-leaf-flower-_44: -1048473962
+      kisspng-leaf-flower-_45: 245844610
+      kisspng-leaf-flower-_46: 839347990
+      kisspng-leaf-flower-_47: -1083914164
+      kisspng-leaf-flower-_5: -271976271
+      kisspng-leaf-flower-_6: -440202906
+      kisspng-leaf-flower-_7: -162168419
+      kisspng-leaf-flower-_8: -2033355349
+      kisspng-leaf-flower-_9: 1726220629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
