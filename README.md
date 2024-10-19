@@ -12,9 +12,8 @@
 
 Для тестирования магазина сделал читы на деньги. В меню 10 раз нужно нажать на лого и на счет упадет +200 монет.
 
-ДОБАВИЛ.
-Появились недельные квесты. За выполненный квест даются бонусы в виде абилок (абилки описывал выше);
-
-# Особенности
-
 # Скриншоты
+![Image Sequence_005_0000](https://github.com/user-attachments/assets/8ae527dd-07ed-4b7d-bded-754a4d43bb0a)
+![Image Sequence_004_0000](https://github.com/user-attachments/assets/d777a425-9d5c-4d02-a9ce-3d9da70dddf9)
+![Image Sequence_003_0000](https://github.com/user-attachments/assets/e9b0ca5f-8cbe-4b71-80f6-3ed18e6a939f)
+![Image Sequence_002_0000](https://github.com/user-attachments/assets/3e8a9ca1-ff7f-424b-b40d-05a7a19e4636)
